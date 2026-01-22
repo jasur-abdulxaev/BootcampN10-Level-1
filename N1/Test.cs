@@ -2,6 +2,7 @@
 {
     internal class Calculator1
     {
-
+        int birinchiSon = 2;
+        
     }
 }
