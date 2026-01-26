@@ -10,4 +10,16 @@
   <Folder Name="/N2/Tasks/">
     <Project Path="N2/N2.csproj" Id="e4645226-b27a-4a1c-b4df-b0807c9c4c2c" />
   </Folder>
+  <Folder Name="/N3/" />
+  <Folder Name="/N3/HomeTasks/">
+    <Project Path="N3-HT1/N3-HT1.csproj" Id="956a734e-f6cc-4341-ac76-9e7fd45313ca" />
+    <Project Path="N3-HT2/N3-HT2.csproj" Id="eff1038b-daf6-4d07-90f2-5f53138f5707" />
+  </Folder>
+  <Folder Name="/N3/Tasks/">
+    <Project Path="N3-T1/N3-T1.csproj" Id="a37740cd-c425-4ac3-8d1c-a534c4efe0a7" />
+    <Project Path="N3-T2/N3-T2.csproj" Id="39b8e886-fd36-472a-bff0-99b42a217452" />
+    <Project Path="N3-T3/N3-T3.csproj" Id="412f0c3c-6b5b-4228-b88a-6b8a0d169f2a" />
+    <Project Path="N3-T4/N3-T4.csproj" Id="f86c109c-804c-4ec1-af41-f630cc4e7d28" />
+    <Project Path="N3-T5/N3-T5.csproj" Id="e04a60af-7138-4ae2-a021-63dd63dede72" />
+  </Folder>
 </Solution>
