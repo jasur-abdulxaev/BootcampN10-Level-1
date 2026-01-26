@@ -142,4 +142,5 @@ var modelNumber = "34567890";
 
 #endregion
 
-
+var defaultStringValueX = String.Empty;
+Console.WriteLine(defaultStringValueX);

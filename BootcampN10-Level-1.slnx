@@ -5,6 +5,7 @@
   <Folder Name="/N2/" />
   <Folder Name="/N2/HomeTasks/">
     <Project Path="N2-HT1/N2-HT1.csproj" Id="3c83b44c-46d6-45a1-8448-400cee66cfcd" />
+    <Project Path="N2-HT2/N2-HT2.csproj" Id="2497a354-c259-4532-bf25-579a90d26e68" />
   </Folder>
   <Folder Name="/N2/Tasks/">
     <Project Path="N2/N2.csproj" Id="e4645226-b27a-4a1c-b4df-b0807c9c4c2c" />
