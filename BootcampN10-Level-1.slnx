@@ -22,4 +22,10 @@
     <Project Path="N3-T4/N3-T4.csproj" Id="f86c109c-804c-4ec1-af41-f630cc4e7d28" />
     <Project Path="N3-T5/N3-T5.csproj" Id="e04a60af-7138-4ae2-a021-63dd63dede72" />
   </Folder>
+  <Folder Name="/N4/" />
+  <Folder Name="/N4/HomeTasks/">
+    <Project Path="N4-HT1/N4-HT1.csproj" Id="b8adeeaa-b74a-4e94-b2d1-815b48e3e3cf" />
+    <Project Path="N4-HT2/N4-HT2.csproj" Id="679e9c51-514a-4f83-ae9d-5e9375ad7cef" />
+  </Folder>
+  <Folder Name="/N4/Tasks/" />
 </Solution>
