@@ -28,4 +28,13 @@
     <Project Path="N4-HT2/N4-HT2.csproj" Id="679e9c51-514a-4f83-ae9d-5e9375ad7cef" />
   </Folder>
   <Folder Name="/N4/Tasks/" />
+  <Folder Name="/N5/" />
+  <Folder Name="/N5/HomeTasks/">
+    <Project Path="N5-HT1/N5-HT1.csproj" Id="eb5e4c91-c8fb-423e-b0f0-29e747633279" />
+    <Project Path="N5-HT2/N5-HT2.csproj" Id="83be35e3-ddc1-4aa8-864c-d294a97f5f3c" />
+  </Folder>
+  <Folder Name="/N5/Tasks/">
+    <Project Path="N5-T1/N5-T1.csproj" Id="73ad425b-8728-4d77-b0b3-af5dfb273022" />
+    <Project Path="N5-T2/N5-T2.csproj" Id="e267f45d-28ab-4dab-808b-a3e8fdb53c62" />
+  </Folder>
 </Solution>
