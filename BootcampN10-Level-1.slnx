@@ -41,5 +41,6 @@
   <Folder Name="/N6/HomeTasks/" />
   <Folder Name="/N6/Tasks/">
     <Project Path="N6-T1/N6-T1.csproj" Id="d51b1fb8-b94e-45a3-94db-89b67015c533" />
+    <Project Path="N6-T2/N6-T2.csproj" Id="f88d9b2f-c5d9-4b44-ad99-9accb209a2de" />
   </Folder>
 </Solution>
