@@ -29,10 +29,15 @@ for (int i = 0; i < scores.Length - 1; i++)
         }
     }
 }
-
+//Natijalarni ajratgan holatda ekranga chiqazish
 Console.WriteLine("Natijalarni ko'rish (sortlangan holatda): ");
 
 for (int i = 0; i < scores.Length; i++)
 {
-    Console.WriteLine((i + 1) + "." + names[i] + " " + scores[i]);
+    if (scores[i] >= 86)
+        Console.WriteLine((i + 1) + "." + names[i] + " " + scores[i] + " A'lo");
+    else if (scores[i] > 70 && scores[i] < 86)
+        Console.WriteLine((i + 1) + "." + names[i] + " " + scores[i] + " Yaxshi");
+    else
+        Console.WriteLine((i + 1) + "." + names[i] + " " + scores[i] + " Yomon");
 }
