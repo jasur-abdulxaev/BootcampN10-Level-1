@@ -1,6 +1,4 @@
-﻿
-
-var date = new DateOnly(2026, 02, 10);
+﻿var date = new DateOnly(2026, 02, 10);
 var days = new DateOnly[]
 {
     date.AddDays(0),

@@ -51,6 +51,10 @@
     <Project Path="N7-HT1/N7-HT1.csproj" Id="80ecd4bb-8465-4a27-9118-24c355d4ceba" />
   </Folder>
   <Folder Name="/N7/Tasks/">
+    <Project Path="LeetCode Task/58. Length of Last Word.csproj" Id="b818c111-0c45-4265-aa5b-4212810a4593" />
     <Project Path="N7-T1/N7-T1.csproj" Id="3665e69c-32b0-4114-ba56-83d598365416" />
   </Folder>
+  <Folder Name="/N8/" />
+  <Folder Name="/N8/HomeTasks/" />
+  <Folder Name="/N8/Tasks/" />
 </Solution>
