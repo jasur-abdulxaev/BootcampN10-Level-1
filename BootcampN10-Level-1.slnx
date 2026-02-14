@@ -63,4 +63,8 @@
   <Folder Name="/N8/Tasks/">
     <Project Path="26. Remove Duplicates from Sorted Array/26. Remove Duplicates from Sorted Array.csproj" Id="3eb0f233-ac22-4cc3-8225-0c5bd506141d" />
   </Folder>
+  <Folder Name="/N9/" />
+  <Folder Name="/N9/Tasks/">
+    <Project Path="136. Single Number/136. Single Number.csproj" Id="d17d51c2-4d4a-4b5e-add2-9d19229be333" />
+  </Folder>
 </Solution>
