@@ -62,9 +62,14 @@
   </Folder>
   <Folder Name="/N8/Tasks/">
     <Project Path="26. Remove Duplicates from Sorted Array/26. Remove Duplicates from Sorted Array.csproj" Id="3eb0f233-ac22-4cc3-8225-0c5bd506141d" />
+    <Project Path="N8/N8.csproj" Id="591ee88f-667e-4ce8-9e21-634f53c8b212" />
   </Folder>
   <Folder Name="/N9/" />
+  <Folder Name="/N9/HomeTasks/">
+    <Project Path="N9-HT1/N9-HT1.csproj" Id="a665a703-3e5a-4a3e-a71c-20e76406a669" />
+  </Folder>
   <Folder Name="/N9/Tasks/">
     <Project Path="136. Single Number/136. Single Number.csproj" Id="d17d51c2-4d4a-4b5e-add2-9d19229be333" />
+    <Project Path="344. Reverse String/344. Reverse String.csproj" Id="8519fd91-e707-4ade-84bd-c6b12b32873b" />
   </Folder>
 </Solution>
