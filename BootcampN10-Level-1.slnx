@@ -67,9 +67,12 @@
   <Folder Name="/N9/" />
   <Folder Name="/N9/HomeTasks/">
     <Project Path="N9-HT1/N9-HT1.csproj" Id="a665a703-3e5a-4a3e-a71c-20e76406a669" />
+    <Project Path="N9-HT2/N9-HT2.csproj" Id="e1554447-6da5-48f3-b375-2474d192184d" />
   </Folder>
   <Folder Name="/N9/Tasks/">
     <Project Path="136. Single Number/136. Single Number.csproj" Id="d17d51c2-4d4a-4b5e-add2-9d19229be333" />
+    <Project Path="20. Valid Parentheses/20. Valid Parentheses.csproj" Id="e3b6bd1d-bb7d-4e12-95b3-0ac8487aa63d" />
     <Project Path="344. Reverse String/344. Reverse String.csproj" Id="8519fd91-e707-4ade-84bd-c6b12b32873b" />
+    <Project Path="7. Reverse Integer/7. Reverse Integer.csproj" Id="87c659a9-4976-40ab-9b93-8d0f9f902c1e" />
   </Folder>
 </Solution>
