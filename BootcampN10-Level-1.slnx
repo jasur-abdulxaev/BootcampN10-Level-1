@@ -8,9 +8,16 @@
     <Project Path="N10-HT2/N10-HT2.csproj" Id="3d9a353d-12a3-4439-b0bc-a38eb3cb111b" />
   </Folder>
   <Folder Name="/N10/Tasks/">
+    <Project Path="202. Happy Number/202. Happy Number.csproj" Id="d7169585-d3c2-4076-9f7d-a2c30743ea21" />
     <Project Path="N10-T1/N10-T1.csproj" Id="15543c59-ad62-4b94-bd53-d541cc67e202" />
     <Project Path="N10-T2/N10-T2.csproj" Id="55f83782-e33f-4a37-8f6b-7bacd62d6632" />
     <Project Path="N10-T3/66. Plus One.csproj" Id="0d686aa6-f929-429f-8f0e-373d4e1e08f7" />
+  </Folder>
+  <Folder Name="/N11/" />
+  <Folder Name="/N11/HomeTasks/" />
+  <Folder Name="/N11/Tasks/">
+    <Project Path="N11-T1.1/N11-T1.1.csproj" Id="5aa38929-e6d8-47b2-9ff5-2f90f2deee16" />
+    <Project Path="N11-T1/N11-T1.csproj" Id="e69c4c35-e89f-471d-9fd2-df1df23276b4" />
   </Folder>
   <Folder Name="/N2/" />
   <Folder Name="/N2/HomeTasks/">
