@@ -14,7 +14,9 @@
     <Project Path="N10-T3/66. Plus One.csproj" Id="0d686aa6-f929-429f-8f0e-373d4e1e08f7" />
   </Folder>
   <Folder Name="/N11/" />
-  <Folder Name="/N11/HomeTasks/" />
+  <Folder Name="/N11/HomeTasks/">
+    <Project Path="N11-HT1/N11-HT1.csproj" Id="08fe5259-5354-49ae-9d03-5dde227b9ab4" />
+  </Folder>
   <Folder Name="/N11/Tasks/">
     <Project Path="N11-T1.1/N11-T1.1.csproj" Id="5aa38929-e6d8-47b2-9ff5-2f90f2deee16" />
     <Project Path="N11-T1/N11-T1.csproj" Id="e69c4c35-e89f-471d-9fd2-df1df23276b4" />
