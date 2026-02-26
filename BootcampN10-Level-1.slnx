@@ -15,6 +15,7 @@
   </Folder>
   <Folder Name="/N11/" />
   <Folder Name="/N11/HomeTasks/">
+    <Project Path="263. Ugly Number/263. Ugly Number 1 and 2.csproj" Id="ecad40e2-52e7-4dab-ac12-f8b5f0560791" />
     <Project Path="N11-HT1/N11-HT1.csproj" Id="08fe5259-5354-49ae-9d03-5dde227b9ab4" />
   </Folder>
   <Folder Name="/N11/Tasks/">
