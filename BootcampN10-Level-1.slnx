@@ -37,6 +37,7 @@
   <Folder Name="/N13/" />
   <Folder Name="/N13/HomeTasks/">
     <Project Path="N13-HT1/N13-HT1.csproj" Id="0f332492-ca14-4e25-a34e-6e1dc504a40a" />
+    <Project Path="N13-HT2/N13-HT2.csproj" Id="64438c55-b939-4666-ac32-f783e16e69be" />
   </Folder>
   <Folder Name="/N13/Tasks/">
     <Project Path="N13-T1/N13-T1.csproj" Id="4e2d8519-9e93-4a46-862e-a1631dc9ddba" />
