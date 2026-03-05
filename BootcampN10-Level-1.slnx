@@ -49,6 +49,12 @@
     <Project Path="N13-T7/N13-T7.csproj" Id="faf26c50-17c9-40e9-9b8d-d151bee8e93b" />
     <Project Path="N13-T8/N13-T8.csproj" Id="c0a3399e-21cd-47ad-b3e0-5740b31e2093" />
   </Folder>
+  <Folder Name="/N14/" />
+  <Folder Name="/N14/HomeTasks/" />
+  <Folder Name="/N14/Tasks/">
+    <Project Path="N14-T1/N14-T1.csproj" Id="67fd1016-3e72-4ad7-8327-a337f49c016d" />
+    <Project Path="N14-T2/N14-T2.csproj" Id="223331ea-5a95-4e40-8b30-f8855d7d05ee" />
+  </Folder>
   <Folder Name="/N2/" />
   <Folder Name="/N2/HomeTasks/">
     <Project Path="N2-HT1/N2-HT1.csproj" Id="3c83b44c-46d6-45a1-8448-400cee66cfcd" />
