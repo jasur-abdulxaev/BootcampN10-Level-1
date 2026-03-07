@@ -50,11 +50,20 @@
     <Project Path="N13-T8/N13-T8.csproj" Id="c0a3399e-21cd-47ad-b3e0-5740b31e2093" />
   </Folder>
   <Folder Name="/N14/" />
-  <Folder Name="/N14/HomeTasks/" />
+  <Folder Name="/N14/HomeTasks/">
+    <Project Path="N14-HT1/N14-HT1.csproj" Id="409bfa20-997a-440b-822f-22026e710ad3" />
+    <Project Path="N14-HT2-CL/N14-HT2-CL.csproj" Id="c6bb15e1-b290-4d3c-85ad-46bce8190300" />
+    <Project Path="N14-HT2/N14-HT2.csproj" Id="4c05405c-bf2e-4dcb-9750-b529b21f3ca7" />
+  </Folder>
   <Folder Name="/N14/Tasks/">
     <Project Path="N14-T1/N14-T1.csproj" Id="67fd1016-3e72-4ad7-8327-a337f49c016d" />
     <Project Path="N14-T2/N14-T2.csproj" Id="223331ea-5a95-4e40-8b30-f8855d7d05ee" />
   </Folder>
+  <Folder Name="/N15/" />
+  <Folder Name="/N15/HomeTasks/">
+    <Project Path="N15-HT1/N15-HT1.csproj" Id="1cf8a269-756f-4567-8e9a-b8efa8e66295" />
+  </Folder>
+  <Folder Name="/N15/Tasks/" />
   <Folder Name="/N2/" />
   <Folder Name="/N2/HomeTasks/">
     <Project Path="N2-HT1/N2-HT1.csproj" Id="3c83b44c-46d6-45a1-8448-400cee66cfcd" />
