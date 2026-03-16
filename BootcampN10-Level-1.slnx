@@ -1,140 +1,151 @@
 <Solution>
   <Folder Name="/N1/">
-    <Project Path="N1/N1.csproj" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N1/N1.csproj" />
   </Folder>
   <Folder Name="/N10/" />
   <Folder Name="/N10/HomeTasks/">
-    <Project Path="N10-HT1/N10-HT1.csproj" Id="286c8c8c-76da-4173-aadb-cdec3c55ed63" />
-    <Project Path="N10-HT2/N10-HT2.csproj" Id="3d9a353d-12a3-4439-b0bc-a38eb3cb111b" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N10-HT1/N10-HT1.csproj" Id="286c8c8c-76da-4173-aadb-cdec3c55ed63" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N10-HT2/N10-HT2.csproj" Id="3d9a353d-12a3-4439-b0bc-a38eb3cb111b" />
   </Folder>
   <Folder Name="/N10/Tasks/">
-    <Project Path="202. Happy Number/202. Happy Number.csproj" Id="d7169585-d3c2-4076-9f7d-a2c30743ea21" />
-    <Project Path="N10-T1/N10-T1.csproj" Id="15543c59-ad62-4b94-bd53-d541cc67e202" />
-    <Project Path="N10-T2/N10-T2.csproj" Id="55f83782-e33f-4a37-8f6b-7bacd62d6632" />
-    <Project Path="N10-T3/66. Plus One.csproj" Id="0d686aa6-f929-429f-8f0e-373d4e1e08f7" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/202. Happy Number/202. Happy Number.csproj" Id="d7169585-d3c2-4076-9f7d-a2c30743ea21" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N10-T1/N10-T1.csproj" Id="15543c59-ad62-4b94-bd53-d541cc67e202" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N10-T2/N10-T2.csproj" Id="55f83782-e33f-4a37-8f6b-7bacd62d6632" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N10-T3/66. Plus One.csproj" Id="0d686aa6-f929-429f-8f0e-373d4e1e08f7" />
   </Folder>
   <Folder Name="/N11/" />
   <Folder Name="/N11/HomeTasks/">
-    <Project Path="263. Ugly Number/263. Ugly Number 1 and 2.csproj" Id="ecad40e2-52e7-4dab-ac12-f8b5f0560791" />
-    <Project Path="N11-HT1/N11-HT1.csproj" Id="08fe5259-5354-49ae-9d03-5dde227b9ab4" />
-    <Project Path="N11-HT2/N11-HT2.csproj" Id="c08c3e64-dcfb-4802-ac61-f6a5e9fc6aee" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/263. Ugly Number/263. Ugly Number 1 and 2.csproj" Id="ecad40e2-52e7-4dab-ac12-f8b5f0560791" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N11-HT1/N11-HT1.csproj" Id="08fe5259-5354-49ae-9d03-5dde227b9ab4" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N11-HT2/N11-HT2.csproj" Id="c08c3e64-dcfb-4802-ac61-f6a5e9fc6aee" />
   </Folder>
   <Folder Name="/N11/Tasks/">
-    <Project Path="N11-T1.1/N11-T1.1.csproj" Id="5aa38929-e6d8-47b2-9ff5-2f90f2deee16" />
-    <Project Path="N11-T1/N11-T1.csproj" Id="e69c4c35-e89f-471d-9fd2-df1df23276b4" />
-    <Project Path="N11-T2/N11-T2.csproj" Id="23085e8c-38cf-4370-ba46-f6f892d4f393" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N11-T1.1/N11-T1.1.csproj" Id="5aa38929-e6d8-47b2-9ff5-2f90f2deee16" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N11-T1/N11-T1.csproj" Id="e69c4c35-e89f-471d-9fd2-df1df23276b4" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N11-T2/N11-T2.csproj" Id="23085e8c-38cf-4370-ba46-f6f892d4f393" />
   </Folder>
   <Folder Name="/N12/" />
   <Folder Name="/N12/HomeTasks/">
-    <Project Path="N12-HT1/N12-HT1.csproj" Id="0b77e950-50ab-46f6-8c8a-df665c6972bb" />
-    <Project Path="N12-HT2/N12-HT2.csproj" Id="eeee9fd1-e579-4a54-8c29-d4e56287fffc" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N12-HT1/N12-HT1.csproj" Id="0b77e950-50ab-46f6-8c8a-df665c6972bb" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N12-HT2/N12-HT2.csproj" Id="eeee9fd1-e579-4a54-8c29-d4e56287fffc" />
   </Folder>
   <Folder Name="/N12/Tasks/">
-    <Project Path="N12-T1/N12-T1.csproj" Id="e6c9f4dc-8df8-4c85-b0da-73555953d802" />
-    <Project Path="N12-T2/N12-T2.csproj" Id="f6c15276-3666-47ae-a6a4-2b5c6eede567" />
-    <Project Path="N12-T3/N12-T3.csproj" Id="fa8b7042-671f-489e-9fee-fc6943e879c4" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N12-T1/N12-T1.csproj" Id="e6c9f4dc-8df8-4c85-b0da-73555953d802" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N12-T2/N12-T2.csproj" Id="f6c15276-3666-47ae-a6a4-2b5c6eede567" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N12-T3/N12-T3.csproj" Id="fa8b7042-671f-489e-9fee-fc6943e879c4" />
   </Folder>
   <Folder Name="/N13/" />
   <Folder Name="/N13/HomeTasks/">
-    <Project Path="N13-HT1/N13-HT1.csproj" Id="0f332492-ca14-4e25-a34e-6e1dc504a40a" />
-    <Project Path="N13-HT2/N13-HT2.csproj" Id="64438c55-b939-4666-ac32-f783e16e69be" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N13-HT1/N13-HT1.csproj" Id="0f332492-ca14-4e25-a34e-6e1dc504a40a" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N13-HT2/N13-HT2.csproj" Id="64438c55-b939-4666-ac32-f783e16e69be" />
   </Folder>
   <Folder Name="/N13/Tasks/">
-    <Project Path="N13-T1/N13-T1.csproj" Id="4e2d8519-9e93-4a46-862e-a1631dc9ddba" />
-    <Project Path="N13-T2/N13-T2.csproj" Id="724358b1-4ef1-4586-9927-fa2c1c142d5a" />
-    <Project Path="N13-T3/N13-T3.csproj" Id="949784ec-c6f8-4870-b27a-1a8709851a2e" />
-    <Project Path="N13-T4/N13-T4.csproj" Id="f5a29a41-3b6f-45b0-9d4e-675184e145f1" />
-    <Project Path="N13-T5/N13-T5.csproj" Id="66eb3fe1-6229-4f14-8608-d57f7ef7907d" />
-    <Project Path="N13-T6/N13-T6.csproj" Id="26d172aa-2b6e-40e4-8fa5-87d4452295bc" />
-    <Project Path="N13-T7/N13-T7.csproj" Id="faf26c50-17c9-40e9-9b8d-d151bee8e93b" />
-    <Project Path="N13-T8/N13-T8.csproj" Id="c0a3399e-21cd-47ad-b3e0-5740b31e2093" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N13-T1/N13-T1.csproj" Id="4e2d8519-9e93-4a46-862e-a1631dc9ddba" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N13-T2/N13-T2.csproj" Id="724358b1-4ef1-4586-9927-fa2c1c142d5a" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N13-T3/N13-T3.csproj" Id="949784ec-c6f8-4870-b27a-1a8709851a2e" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N13-T4/N13-T4.csproj" Id="f5a29a41-3b6f-45b0-9d4e-675184e145f1" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N13-T5/N13-T5.csproj" Id="66eb3fe1-6229-4f14-8608-d57f7ef7907d" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N13-T6/N13-T6.csproj" Id="26d172aa-2b6e-40e4-8fa5-87d4452295bc" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N13-T7/N13-T7.csproj" Id="faf26c50-17c9-40e9-9b8d-d151bee8e93b" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N13-T8/N13-T8.csproj" Id="c0a3399e-21cd-47ad-b3e0-5740b31e2093" />
   </Folder>
   <Folder Name="/N14/" />
   <Folder Name="/N14/HomeTasks/">
-    <Project Path="N14-HT1/N14-HT1.csproj" Id="409bfa20-997a-440b-822f-22026e710ad3" />
-    <Project Path="N14-HT2-CL/N14-HT2-CL.csproj" Id="c6bb15e1-b290-4d3c-85ad-46bce8190300" />
-    <Project Path="N14-HT2/N14-HT2.csproj" Id="4c05405c-bf2e-4dcb-9750-b529b21f3ca7" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N14-HT1/N14-HT1.csproj" Id="409bfa20-997a-440b-822f-22026e710ad3" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N14-HT2-CL/N14-HT2-CL.csproj" Id="c6bb15e1-b290-4d3c-85ad-46bce8190300" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N14-HT2/N14-HT2.csproj" Id="4c05405c-bf2e-4dcb-9750-b529b21f3ca7" />
   </Folder>
   <Folder Name="/N14/Tasks/">
-    <Project Path="N14-T1/N14-T1.csproj" Id="67fd1016-3e72-4ad7-8327-a337f49c016d" />
-    <Project Path="N14-T2/N14-T2.csproj" Id="223331ea-5a95-4e40-8b30-f8855d7d05ee" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N14-T1/N14-T1.csproj" Id="67fd1016-3e72-4ad7-8327-a337f49c016d" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N14-T2/N14-T2.csproj" Id="223331ea-5a95-4e40-8b30-f8855d7d05ee" />
   </Folder>
   <Folder Name="/N15/" />
   <Folder Name="/N15/HomeTasks/">
-    <Project Path="N15-HT1/N15-HT1.csproj" Id="1cf8a269-756f-4567-8e9a-b8efa8e66295" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N15-HT1/N15-HT1.csproj" Id="1cf8a269-756f-4567-8e9a-b8efa8e66295" />
   </Folder>
   <Folder Name="/N15/Tasks/" />
   <Folder Name="/N2/" />
   <Folder Name="/N2/HomeTasks/">
-    <Project Path="N2-HT1/N2-HT1.csproj" Id="3c83b44c-46d6-45a1-8448-400cee66cfcd" />
-    <Project Path="N2-HT2/N2-HT2.csproj" Id="2497a354-c259-4532-bf25-579a90d26e68" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N2-HT1/N2-HT1.csproj" Id="3c83b44c-46d6-45a1-8448-400cee66cfcd" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N2-HT2/N2-HT2.csproj" Id="2497a354-c259-4532-bf25-579a90d26e68" />
   </Folder>
   <Folder Name="/N2/Tasks/">
-    <Project Path="N2/N2.csproj" Id="e4645226-b27a-4a1c-b4df-b0807c9c4c2c" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N2/N2.csproj" Id="e4645226-b27a-4a1c-b4df-b0807c9c4c2c" />
   </Folder>
+  <Folder Name="/N22/" />
+  <Folder Name="/N22/HomeTasks/">
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N22-HT1/N22-HT1.csproj" Id="149ff65e-a292-4512-8ece-b04b7d548a00" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N22-HT2/N22-HT2.csproj" Id="dad7fdcf-cc77-4950-9bfd-fec877c7e11e" />
+  </Folder>
+  <Folder Name="/N22/Tasks/" />
+  <Folder Name="/N23/" />
+  <Folder Name="/N23/HomeTasks/">
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N23-HT1/N23-HT1.csproj" Id="b14314c1-1d4b-494b-b7c7-309524e237f6" />
+  </Folder>
+  <Folder Name="/N23/Tasks/" />
   <Folder Name="/N3/" />
   <Folder Name="/N3/HomeTasks/">
-    <Project Path="N3-HT1/N3-HT1.csproj" Id="956a734e-f6cc-4341-ac76-9e7fd45313ca" />
-    <Project Path="N3-HT2/N3-HT2.csproj" Id="eff1038b-daf6-4d07-90f2-5f53138f5707" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N3-HT1/N3-HT1.csproj" Id="956a734e-f6cc-4341-ac76-9e7fd45313ca" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N3-HT2/N3-HT2.csproj" Id="eff1038b-daf6-4d07-90f2-5f53138f5707" />
   </Folder>
   <Folder Name="/N3/Tasks/">
-    <Project Path="N3-T1/N3-T1.csproj" Id="a37740cd-c425-4ac3-8d1c-a534c4efe0a7" />
-    <Project Path="N3-T2/N3-T2.csproj" Id="39b8e886-fd36-472a-bff0-99b42a217452" />
-    <Project Path="N3-T3/N3-T3.csproj" Id="412f0c3c-6b5b-4228-b88a-6b8a0d169f2a" />
-    <Project Path="N3-T4/N3-T4.csproj" Id="f86c109c-804c-4ec1-af41-f630cc4e7d28" />
-    <Project Path="N3-T5/N3-T5.csproj" Id="e04a60af-7138-4ae2-a021-63dd63dede72" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N3-T1/N3-T1.csproj" Id="a37740cd-c425-4ac3-8d1c-a534c4efe0a7" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N3-T2/N3-T2.csproj" Id="39b8e886-fd36-472a-bff0-99b42a217452" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N3-T3/N3-T3.csproj" Id="412f0c3c-6b5b-4228-b88a-6b8a0d169f2a" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N3-T4/N3-T4.csproj" Id="f86c109c-804c-4ec1-af41-f630cc4e7d28" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N3-T5/N3-T5.csproj" Id="e04a60af-7138-4ae2-a021-63dd63dede72" />
   </Folder>
   <Folder Name="/N4/" />
   <Folder Name="/N4/HomeTasks/">
-    <Project Path="N4-HT1/N4-HT1.csproj" Id="b8adeeaa-b74a-4e94-b2d1-815b48e3e3cf" />
-    <Project Path="N4-HT2/N4-HT2.csproj" Id="679e9c51-514a-4f83-ae9d-5e9375ad7cef" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N4-HT1/N4-HT1.csproj" Id="b8adeeaa-b74a-4e94-b2d1-815b48e3e3cf" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N4-HT2/N4-HT2.csproj" Id="679e9c51-514a-4f83-ae9d-5e9375ad7cef" />
   </Folder>
   <Folder Name="/N4/Tasks/" />
   <Folder Name="/N5/" />
   <Folder Name="/N5/HomeTasks/">
-    <Project Path="N5-HT1/N5-HT1.csproj" Id="eb5e4c91-c8fb-423e-b0f0-29e747633279" />
-    <Project Path="N5-HT2/N5-HT2.csproj" Id="83be35e3-ddc1-4aa8-864c-d294a97f5f3c" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N5-HT1/N5-HT1.csproj" Id="eb5e4c91-c8fb-423e-b0f0-29e747633279" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N5-HT2/N5-HT2.csproj" Id="83be35e3-ddc1-4aa8-864c-d294a97f5f3c" />
   </Folder>
   <Folder Name="/N5/Tasks/">
-    <Project Path="N5-T1/N5-T1.csproj" Id="73ad425b-8728-4d77-b0b3-af5dfb273022" />
-    <Project Path="N5-T2/N5-T2.csproj" Id="e267f45d-28ab-4dab-808b-a3e8fdb53c62" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N5-T1/N5-T1.csproj" Id="73ad425b-8728-4d77-b0b3-af5dfb273022" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N5-T2/N5-T2.csproj" Id="e267f45d-28ab-4dab-808b-a3e8fdb53c62" />
   </Folder>
   <Folder Name="/N6/" />
   <Folder Name="/N6/HomeTasks/">
-    <Project Path="N6-HT2/N6-HT2.csproj" Id="81b016b6-33c3-4dc1-ae7b-77f72d3ad98c" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N6-HT2/N6-HT2.csproj" Id="81b016b6-33c3-4dc1-ae7b-77f72d3ad98c" />
   </Folder>
   <Folder Name="/N6/Tasks/">
-    <Project Path="N6-T/N6-T.csproj" Id="101f70d6-074b-4d50-9e58-b8d698f0fee7" />
-    <Project Path="N6-T1/N6-T1.csproj" Id="d51b1fb8-b94e-45a3-94db-89b67015c533" />
-    <Project Path="N6-T2/N6-T2.csproj" Id="f88d9b2f-c5d9-4b44-ad99-9accb209a2de" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N6-T/N6-T.csproj" Id="101f70d6-074b-4d50-9e58-b8d698f0fee7" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N6-T1/N6-T1.csproj" Id="d51b1fb8-b94e-45a3-94db-89b67015c533" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N6-T2/N6-T2.csproj" Id="f88d9b2f-c5d9-4b44-ad99-9accb209a2de" />
   </Folder>
   <Folder Name="/N7/" />
   <Folder Name="/N7/Home Tasks/">
-    <Project Path="N7-HT1/N7-HT1.csproj" Id="80ecd4bb-8465-4a27-9118-24c355d4ceba" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N7-HT1/N7-HT1.csproj" Id="80ecd4bb-8465-4a27-9118-24c355d4ceba" />
   </Folder>
   <Folder Name="/N7/Tasks/">
-    <Project Path="LeetCode Task/58. Length of Last Word.csproj" Id="b818c111-0c45-4265-aa5b-4212810a4593" />
-    <Project Path="N7-T1/N7-T1.csproj" Id="3665e69c-32b0-4114-ba56-83d598365416" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/LeetCode Task/58. Length of Last Word.csproj" Id="b818c111-0c45-4265-aa5b-4212810a4593" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N7-T1/N7-T1.csproj" Id="3665e69c-32b0-4114-ba56-83d598365416" />
   </Folder>
   <Folder Name="/N8/" />
   <Folder Name="/N8/HomeTasks/">
-    <Project Path="N8-HT1/N8-HT1.csproj" Id="3e79154c-7f90-42ee-921a-e1c6bfb65959" />
-    <Project Path="N8-HT2/N8-HT2.csproj" Id="dff5f4e4-0885-45fc-98cc-ae9c91726d0b" />
-    <Project Path="N8-HT2Max/N8-HT2Max.csproj" Id="79521560-d580-4361-a726-534bda5293d7" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N8-HT1/N8-HT1.csproj" Id="3e79154c-7f90-42ee-921a-e1c6bfb65959" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N8-HT2/N8-HT2.csproj" Id="dff5f4e4-0885-45fc-98cc-ae9c91726d0b" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N8-HT2Max/N8-HT2Max.csproj" Id="79521560-d580-4361-a726-534bda5293d7" />
   </Folder>
   <Folder Name="/N8/Tasks/">
-    <Project Path="26. Remove Duplicates from Sorted Array/26. Remove Duplicates from Sorted Array.csproj" Id="3eb0f233-ac22-4cc3-8225-0c5bd506141d" />
-    <Project Path="N8/N8.csproj" Id="591ee88f-667e-4ce8-9e21-634f53c8b212" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/26. Remove Duplicates from Sorted Array/26. Remove Duplicates from Sorted Array.csproj" Id="3eb0f233-ac22-4cc3-8225-0c5bd506141d" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N8/N8.csproj" Id="591ee88f-667e-4ce8-9e21-634f53c8b212" />
   </Folder>
   <Folder Name="/N9/" />
   <Folder Name="/N9/HomeTasks/">
-    <Project Path="N9-HT1/N9-HT1.csproj" Id="a665a703-3e5a-4a3e-a71c-20e76406a669" />
-    <Project Path="N9-HT2/N9-HT2.csproj" Id="e1554447-6da5-48f3-b375-2474d192184d" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N9-HT1/N9-HT1.csproj" Id="a665a703-3e5a-4a3e-a71c-20e76406a669" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N9-HT2/N9-HT2.csproj" Id="e1554447-6da5-48f3-b375-2474d192184d" />
   </Folder>
   <Folder Name="/N9/Tasks/">
-    <Project Path="136. Single Number/136. Single Number.csproj" Id="d17d51c2-4d4a-4b5e-add2-9d19229be333" />
-    <Project Path="20. Valid Parentheses/20. Valid Parentheses.csproj" Id="e3b6bd1d-bb7d-4e12-95b3-0ac8487aa63d" />
-    <Project Path="344. Reverse String/344. Reverse String.csproj" Id="8519fd91-e707-4ade-84bd-c6b12b32873b" />
-    <Project Path="7. Reverse Integer/7. Reverse Integer.csproj" Id="87c659a9-4976-40ab-9b93-8d0f9f902c1e" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/136. Single Number/136. Single Number.csproj" Id="d17d51c2-4d4a-4b5e-add2-9d19229be333" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/20. Valid Parentheses/20. Valid Parentheses.csproj" Id="e3b6bd1d-bb7d-4e12-95b3-0ac8487aa63d" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/344. Reverse String/344. Reverse String.csproj" Id="8519fd91-e707-4ade-84bd-c6b12b32873b" />
+    <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/7. Reverse Integer/7. Reverse Integer.csproj" Id="87c659a9-4976-40ab-9b93-8d0f9f902c1e" />
   </Folder>
 </Solution>
