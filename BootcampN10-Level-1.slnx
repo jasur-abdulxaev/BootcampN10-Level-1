@@ -82,7 +82,14 @@
   <Folder Name="/N23/HomeTasks/">
     <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N23-HT1/N23-HT1.csproj" Id="b14314c1-1d4b-494b-b7c7-309524e237f6" />
   </Folder>
-  <Folder Name="/N23/Tasks/" />
+  <Folder Name="/N23/Tasks/">
+    <Project Path="N23-T1/N23-T1.csproj" Id="4a44dd2b-4ce4-44a8-a9a0-e66320a98d30" />
+  </Folder>
+  <Folder Name="/N24/" />
+  <Folder Name="/N24/HomeTasks/">
+    <Project Path="N24-HT1/N24-HT1.csproj" Id="52cbb825-3b92-4fbf-9a75-9e5f6f08fc07" />
+  </Folder>
+  <Folder Name="/N24/Tasks/" />
   <Folder Name="/N3/" />
   <Folder Name="/N3/HomeTasks/">
     <Project Path="D:/Projects/Repositories/NajotTalim/BootcampN10-Level-1/BootcampN10-Level-1/N3-HT1/N3-HT1.csproj" Id="956a734e-f6cc-4341-ac76-9e7fd45313ca" />
