@@ -1,0 +1,6 @@
+@N53_HT1_HostAddress = http://localhost:5086
+
+GET {{N53_HT1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

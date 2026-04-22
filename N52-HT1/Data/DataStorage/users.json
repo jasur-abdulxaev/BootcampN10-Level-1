@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "99862691-4157-4d80-b9b3-0a83018694d8",
+    "FirstName": "akmal",
+    "LastName": "string",
+    "Email": "string",
+    "Password": "string",
+    "CreatedAt": "2026-04-21T12:45:35.1880118Z"
+  },
+  {
+    "Id": "be90bd6f-bff6-46e2-9de2-d1c96e56c885",
+    "FirstName": "Jasur",
+    "LastName": "Abdulkhaev",
+    "Email": "jasurabdulxaev@gmail.com",
+    "Password": "parol1223",
+    "CreatedAt": "2026-04-22T04:46:25.4282068Z"
+  },
+  {
+    "Id": "7dcaef6e-5821-414b-bde8-4ff3d66252d1",
+    "FirstName": "Kamola",
+    "LastName": "Xaliqova",
+    "Email": "kamola@gmail.com",
+    "Password": "99999",
+    "CreatedAt": "2026-04-22T04:48:09.903282Z"
+  }
+]
